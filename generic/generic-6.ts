@@ -14,5 +14,3 @@ new PersonExtends(39);
 // string | number이므로 boolean은 안됌
 // new PersonExtends(true);
 
-
-
