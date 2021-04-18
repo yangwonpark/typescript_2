@@ -7,11 +7,11 @@ class Person {
     }
 
     hello() {
-        this.country = 'China';
+        // this.country = 'China';
     }
 }
 
 const pc1: Person = new Person("Mark", 39);
 console.log(pc1.name);      
-pc1.name = "Woongjae";       
+// pc1.name = "Woongjae";       
 console.log(pc1.name);      
