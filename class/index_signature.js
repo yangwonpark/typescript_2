@@ -1,6 +1,7 @@
 "use strict";
 // index signature
 // property를 동적으로 처리하고자 할 때 사용한다
+// 초기값을 할당할 필요가 없다 (optional 느낌)
 /*
     class => object
     { mark: 'male', jade: 'male' }

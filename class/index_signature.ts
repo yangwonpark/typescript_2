@@ -14,7 +14,7 @@ class Students {
 
     [index: string]: "male" | "female";
 
-    mark: "female" = "female";
+    // mark: "female" = "female";
 }
 
 const a = new Students();
